@@ -137,7 +137,7 @@ Exploited CPU cache behavior to leak sensitive kernel memory
 ### 🔧 Reverse Engineering Challenge (Yan85 Emulator)
 **Self-Initiated Project | 2025**
 
-![Expert](https://img.shields.io/badge/Difficulty-Expert-darkred?style=flat-square)
+![Moderate](https://img.shields.io/badge/Difficulty-Expert-darkred?style=flat-square)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF6B6B?style=flat-square)
 
 ```
@@ -157,7 +157,7 @@ Complete architectural reverse engineering of custom VM implementation
 ### 🌐 Web Server in x86 Assembly
 **Self-Initiated Project | 2025**
 
-![Advanced](https://img.shields.io/badge/Difficulty-Advanced-orange?style=flat-square)
+![Moderate](https://img.shields.io/badge/Difficulty-Advanced-orange?style=flat-square)
 ![Low-Level Programming](https://img.shields.io/badge/Low_Level-000000?style=flat-square)
 
 ```
