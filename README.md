@@ -264,7 +264,7 @@ current_learning = {
 
 *Last Updated: March 2026*
 
-**"The best security is informed security."** — Always learning, always evolving.
+**"Don't be superficial, always dive deep"** — Always learning, always evolving.
 
 ![GitHub followers](https://img.shields.io/github/followers/Ishaantheguy?style=social)
 [![GitHub](https://img.shields.io/github/stars/Ishaantheguy?style=social)](https://github.com/Ishaantheguy)
