@@ -205,7 +205,7 @@ current_learning = {
         "Advanced System Design",
         "Post-Quantum Cryptography",
         "Hardware Security",
-        "Kernel Exploitation"
+        "Kernel Exploitation in linux"
     ],
     "ongoing": [
         "Quantum-Safe Authentication",
