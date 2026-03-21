@@ -22,7 +22,7 @@ Third-year Computer Engineering student at DJSCE, Mumbai | CGPA: 9.46
 Passionate about System Programming, Web Security & Ethical Hacking
 Research-driven with focus on Secure Coding, Vulnerability Assessment & Network Protocols
 Currently exploring: Quantum-Safe Cryptography & Advanced Reverse Engineering
-Go check out my blog 😉 [Click here](https://ishaantheguy.in/blog) |
+Go check out my blog 😉 [Click here](https://ishaantheguy.in/blog)  
 ```
 
 **📧** ishaanksheth2@gmail.com| **🔗** [LinkedIn](https://linkedin.com/in/ishaanksheth) | **💻** [GitHub](https://github.com/Ishaantheguy)
