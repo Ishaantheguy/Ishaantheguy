@@ -25,7 +25,7 @@ Currently exploring: Quantum-Safe Cryptography & Advanced Reverse Engineering
 Go check out my blog 👇
 ```
 
-**📖** [Click here](https://ishaantheguy.in/blog)| **📧** ishaanksheth2@gmail.com| **🔗** [LinkedIn](https://linkedin.com/in/ishaanksheth) | **💻** [GitHub](https://github.com/Ishaantheguy)
+**📖** [Blog](https://ishaantheguy.in/blog)| **📧** ishaanksheth2@gmail.com| **🔗** [LinkedIn](https://linkedin.com/in/ishaanksheth) | **💻** [GitHub](https://github.com/Ishaantheguy)
 
 ---
 
