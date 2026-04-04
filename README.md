@@ -2,7 +2,6 @@
 
 # 👋 Hey, I'm Ishaan Sheth
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ishaantheguy&color=00ff41&style=flat-square)](https://github.com/Ishaantheguy)
 [![GitHub Followers](https://img.shields.io/github/followers/Ishaantheguy?style=flat-square&color=00ff41)](https://github.com/Ishaantheguy)
 
 </div>
